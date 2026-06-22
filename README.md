@@ -20,7 +20,7 @@ Script Python que lê dados de vendas em CSV, calcula métricas e gera um relat�
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/analisador-de-vendas.git
+git clone https://github.com/fegas95/analisador-de-vendas.git
 cd data-report
 
 # Execute o script
